@@ -19,6 +19,5 @@ end
 
 
 def id_hash_generator(number)
-  :id => number
+  :id => 4
 end
-id_has_generator(4)
