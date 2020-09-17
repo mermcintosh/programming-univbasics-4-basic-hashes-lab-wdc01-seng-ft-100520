@@ -9,6 +9,7 @@ def my_hash
    fruit: => "apple"
  }
 end
+my_hash
 
 # def pioneer
 #   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
