@@ -5,7 +5,7 @@ def new_hash
 end
 
 def my_hash
-  { :fruit => orange
+  { :fruit => orange,
     :vegetable => carrot
   }
 end
