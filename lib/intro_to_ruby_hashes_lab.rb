@@ -11,9 +11,11 @@ def my_hash
 end
 my_hash
 
-# def pioneer
-#   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
-# end
+def pioneer
+{
+  :name => "Grace Hopper"
+}
+end
 
 
 # def id_hash_generator(number)
